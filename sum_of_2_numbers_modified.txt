@@ -1,0 +1,23 @@
+3 start
+address1:30
+result:100
+
+start:7 address1 address1_copy
+
+1 address1_copy one address2
+
+1 address2 one address3
+
+7 result result_copy
+
+1 address1_copy:0 address2:0
+sum
+
+1 address3:0 sum
+result_copy:0
+
+STOP:9
+one:1
+sum:0
+
+10 11 15
