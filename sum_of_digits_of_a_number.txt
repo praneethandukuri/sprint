@@ -1,0 +1,31 @@
+3 start
+number:12
+result:0
+
+start:7 number number_copy
+
+loop_start:5 zero number_copy check
+
+STOP:9
+
+check:5 number_copy ten add
+
+2 number_copy ten number_copy
+
+1 counter one counter
+
+3 check
+
+add:1 result number_copy result
+
+7 counter number_copy
+
+7 zero counter
+
+3 loop_start
+
+zero:0
+one:1
+ten:10
+counter:0
+number_copy:0
