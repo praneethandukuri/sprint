@@ -1,0 +1,39 @@
+3 start
+first_cell_location:45
+length:4
+result:100
+
+start:7 length counter
+
+7 first_cell_location next_cell_location
+
+7 result result_copy
+
+loopStart:4 counter zero copy
+
+7 next_cell_location:0 current_number
+
+1 sum current_number sum
+
+2 counter one counter
+
+1 next_cell_location one next_cell_location
+
+3 loopStart
+
+copy:7 sum result_copy:0
+
+9
+
+counter:0
+sum:0
+zero:0
+one:1
+current_number:0
+
+10
+20
+30
+40
+
+
