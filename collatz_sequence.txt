@@ -1,0 +1,36 @@
+3 start:4
+number:5
+
+0 zero quotient
+
+7 number number_copy
+
+5 number_copy two _
+
+2 number_copy two number_copy
+
+1 quotient one quotient
+
+3 10
+
+4 number_copy one _
+
+7 quotient dupli_number_copy
+
+4 dupli_number_copy one _
+
+1 memory one memory
+
+7 dupli_number_copy number_copy
+
+7 dupli_number_copy memory
+
+3 start
+
+1 memory one memory
+
+7 dupli_number_copy memory
+
+STOP:9
+
+two:2
