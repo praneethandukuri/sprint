@@ -1,0 +1,15 @@
+3 7
+first_element:33
+length:5
+target:6
+result:0
+5 counter length 12
+STOP:9
+4 address:33 target copy
+1 counter one counter
+1 address one address
+3 7
+copy:7 one result
+3 STOP
+counter:0 one:1
+e1:1 e2:2 e3:3 e4:4 e5:5
