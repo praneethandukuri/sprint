@@ -1,0 +1,38 @@
+3 5 first_element_location:48
+length:2
+
+1 first_element_location length
+last_element_location
+
+subtract:2 last_element_location one
+last_element_location
+
+compare:5 first_element_location last_element_location Go
+
+STOP:9
+
+Go:7 first_element_location a
+
+7 last_element_location b
+
+7 a:0 temp
+
+7 a c
+
+7 b d
+
+7 b:0 c:0
+
+7 temp d:0
+
+1 first_element_location one
+first_element_location
+
+3 subtract
+
+one:1
+temp:0
+last_element_location:0
+
+1
+2
