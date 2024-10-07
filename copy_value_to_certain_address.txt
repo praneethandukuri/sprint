@@ -1,0 +1,17 @@
+3 start
+address1:21 address2:50
+
+start:7 address1 address1_copy
+
+7 address1_copy:0 address1_value
+
+7 address2 address2_copy
+
+0 address1_value:0 address2_copy:0
+
+STOP:9
+0 
+0
+78
+690 
+5
