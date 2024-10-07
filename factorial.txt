@@ -1,0 +1,15 @@
+3 5
+input:3 result:1
+7 input number
+5 number two stop
+5 count number 31
+7 subResult result
+7 zero subResult
+7 zero count
+2 number one number
+3 8
+1 subResult result subResult
+1 count one count
+3 12
+stop:9
+number:0 count:0 two:2 subResult:0 zero:0 one:1
