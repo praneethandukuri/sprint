@@ -1,0 +1,20 @@
+3 start
+address1:24
+result:100
+
+start:7 address1 address1_copy
+
+1 address1_copy one address2
+
+7 result result_copy
+
+1 address1_copy:0 address2:0 result_copy:0
+
+STOP:9
+one:1
+
+0 
+0
+78
+690 
+5
